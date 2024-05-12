@@ -1,4 +1,6 @@
-This is a simple to-do list application built with React. It allows users to manage their tasks in well defined effcient mannner
+## Introduction
+
+This is a To-do list application with Simple Ui which built with React Library.It allows users to manage their tasks in well defined mannner.
 
 ## Features
 
