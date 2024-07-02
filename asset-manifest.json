@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/To-Do-List-Manager-using-React/static/css/main.f5db00e0.css",
+    "main.js": "/To-Do-List-Manager-using-React/static/js/main.1228e21f.js",
+    "index.html": "/To-Do-List-Manager-using-React/index.html",
+    "main.f5db00e0.css.map": "/To-Do-List-Manager-using-React/static/css/main.f5db00e0.css.map",
+    "main.1228e21f.js.map": "/To-Do-List-Manager-using-React/static/js/main.1228e21f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5db00e0.css",
+    "static/js/main.1228e21f.js"
+  ]
+}
